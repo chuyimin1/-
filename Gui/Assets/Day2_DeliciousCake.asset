@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f9b52a9f0d79e44a92c144b18f8270f, type: 3}
+  m_Name: Day2_DeliciousCake
+  m_EditorClassIdentifier: 
+  eventID: 10002
+  lines:
+  - characterType: 0
+    content: "\u602A\u8C08\u70ED\u7EBF\uFF0C\u8BF7\u8BB2\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u523B\u610F\u538B\u4F4E\u7684\u58F0\u97F3\uFF0C\u4F34\u968F\u7740\u6025\u4FC3\u7684\u5598\u606F\uFF09\u6211\u8981\u4E3E\u62A5\u2026\u2026\u6211\u8981\u4E3E\u62A5\u4E00\u5BB6\u9ED1\u5E97\uFF01\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0

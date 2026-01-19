@@ -1,0 +1,416 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f9b52a9f0d79e44a92c144b18f8270f, type: 3}
+  m_Name: Day1_StudentCall
+  m_EditorClassIdentifier: 
+  eventID: 10001
+  lines:
+  - characterType: 0
+    content: "\u602A\u8C08\u70ED\u7EBF\uFF0C\u8BF7\u8BB2\u3002"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u6025\u4FC3\u4E14\u538B\u6291\u7684\u547C\u5438\u58F0\uFF09\u6551\u2026\u2026\u6551\u547D\u3002\u90A3\u4E2A\u4E1C\u897F\u2026\u2026\u5B83\u4E00\u76F4\u5728\u770B\u7740\u6211\u3002\u5B83\u5C31\u5728\u623F\u95F4\u91CC\u3002\n\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 2
+    content: "\u2026\u2026\u7ECF\u5178\u5F00\u573A\u767D\uFF0C\u901A\u5E38\u63A5\u4E0B\u6765\u8981\u4E48\u662F\u8863\u67DC\u91CC\u7684\u7EA2\u773C\u775B\uFF0C\u8981\u4E48\u662F\u5929\u82B1\u677F\u4E0A\u7684\u5934\u53D1\u3002\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u522B\u614C\uFF0C\u6162\u6162\u8BF4\u3002\u4F60\u5728\u54EA\uFF1F\u90A3\u4E2A\u4E1C\u897F\u73B0\u5728\u5728\u5E72\u4EC0\u4E48\uFF1F"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u5E26\u7740\u54ED\u8154\uFF0C\u4F34\u968F\u7740\u5E03\u6599\u6469\u64E6\u7684\u58F0\u97F3\uFF09\u57CE\u5317\u2026\u2026\u90A3\u7247\u51FA\u79DF\u5C4B\u2026\u2026\u5B83\u6CA1\u52A8\uFF0C\u5B83\u5C31\u5750\u5728\u90A3\u513F\u2026\u2026\u53D1\u7740\u5149\u3002\u84DD\u8272\u7684\u5149\u3002\u90A3\u79CD\u6B7B\u4EBA\u7684\u989C\u8272\u3002\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 9
+  - characterType: 0
+    content: "\u53D1\u5149\uFF1F\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u5BF9\uFF0C\u5B83\u7684\u2018\u773C\u775B\u2019\u4E00\u76F4\u76EF\u7740\u6211\u3002\u65E0\u8BBA\u6211\u8EB2\u5230\u88AB\u7A9D\u91CC\uFF0C\u8FD8\u662F\u8F6C\u8FC7\u8EAB\uFF0C\u6211\u90FD\u80FD\u611F\u89C9\u5230\u90A3\u79CD\u89C6\u7EBF\u2026\u2026\u51B7\u51B0\u51B0\u7684\uFF0C\u50CF\u5728\u7B97\u8BA1\u6211\u7684\u9AA8\u5934\u6709\u51E0\u4E24\u91CD\u3002\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u4F60\u77E5\u9053\u5417\uFF1F\u5B83\u80FD\u770B\u900F\u6211\u3002\u5B83\u77E5\u9053\u6211\u6492\u8C0E\u4E86\uFF0C\u77E5\u9053\u6211\u5B66\u5386\u5176\u5B9E\u4E0D\u592A\u884C\uFF0C\u77E5\u9053\u6211\u5176\u5B9E\u5F88\u6015\u5B83\u2026\u2026\u5B83\u4EC0\u4E48\u90FD\u77E5\u9053\u3002\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 2
+    content: "...\u542C\u8D77\u6765\u6709\u70B9\u50CF\u8D5B\u535A\u5E7D\u7075\u3002\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u4F60\u80FD\u63CF\u8FF0\u4E00\u4E0B\u5B83\u7684\u5177\u4F53\u6837\u8C8C\u5417\uFF1F\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u6C89\u9ED8\u4E86\u8DB3\u8DB3\u4E94\u79D2\u949F\uFF09\uFF08\u4E00\u58F0\u6253\u706B\u673A\u7684\u8106\u54CD\uFF09\uFF08\u67D0\u79CD\u5E72\u71E5\u7269\u4F53\u71C3\u70E7\u7684\u7EC6\u5FAE\u567C\u556A\u58F0\uFF09\n\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u5B83\u2026\u2026\u5B83\u662F\u8054X\u7684\u3002\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 2
+    content: "\uFF1F\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u8BED\u6C14\u8BE1\u5F02\u5730\u8654\u8BDA\uFF09\u90A3\u662F\u6211\u7684\u7B14\u8BB0\u672C\u7535\u8111\uFF0C\u8FD8\u6709\u90A3\u4E2A\u6444\u50CF\u5934\u3002\u6211\u77E5\u9053\uFF0C\u6709\u4E1C\u897F\u5728\u540E\u9762\u770B\u7740\u6211\u3002\u660E\u5929\u2026\u2026\u660E\u5929\u5C31\u662F\u9762\u8BD5\u4E86\u3002\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 2
+    content: "\u7B49\u7B49\uFF0C\u89C9\u5F97\u88AB\u602A\u8C08\u7F20\u8EAB\uFF0C\u662F\u56E0\u4E3A\u2026\u2026\u7535\u8111\uFF1F\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u60C5\u7EEA\u7A81\u7136\u6FC0\u52A8\uFF09\u4F60\u4E0D\u61C2\uFF01\u73B0\u5728\u7684\u9762\u8BD5\u6839\u672C\u4E0D\u662F\u4EBA\u6765\u770B\u7684\u3002\u4ED6\u4EEC\u8BF4\u662F\u2018\u521D\u5BA1\u2019\u3002\u628A\u50CF\u6211\u8FD9\u6837\u7684\u4EBA\u6254\u8FDB\u7CFB\u7EDF\u91CC\uFF0C\u90A3\u4E2A\u7B97\u6CD5\u5C31\u50CF\u2026\u2026\u5C31\u50CF\u7B5B\u6C99\u5B50\u4E00\u6837\u3002\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u5B83\u751A\u81F3\u4E0D\u9700\u8981\u542C\u6211\u8BF4\u8BDD\uFF0C\u53EA\u8981\u626B\u4E00\u773C\u6211\u7684\u7B80\u5386\u5173\u952E\u8BCD\uFF0C\u626B\u4E00\u773C\u6211\u7684\u8868\u60C5\u5FAE\u52A8\u4F5C\uFF0C\u5C31\u80FD\u5224\u6211\u6B7B\u5211\u3002\r"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u6240\u4EE5\u2026\u2026\u521A\u624D\u6253\u706B\u673A\u7684\u58F0\u97F3\u662F\uFF1F "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u6211\u7ED9\u5B83\u4E0A\u4E86\u9999\u3002 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 2
+    content: "\u2026\u2026 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u58F0\u97F3\u98D8\u5FFD\uFF09\u4E09\u652F\u957F\u9999\uFF0C\u4E24\u77ED\u4E00\u957F\u3002\u6211\u5728\u7F51\u4E0A\u67E5\u4E86\uFF0C\u8FD9\u53EB\u2018\u656C\u795E\u2019\u3002\u65E2\u7136\u73B0\u5728\u7684\u9762\u8BD5\u5B98\u90FD\u5DF2\u7ECF\u4E0D\u662F\u4EBA\u4E86\u2026\u2026 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u90A3\u6211\u53EA\u80FD\u6C42\u8FD9\u53F0\u673A\u5668\u91CC\u7684\u795E\u4ED9\uFF0C\u660E\u5929\u7B97\u6CD5\u5728\u626B\u8FC7\u6211\u540D\u5B57\u7684\u65F6\u5019\uFF0C\u80FD\u9AD8\u62AC\u8D35\u624B\uFF0C\u522B\u628A\u6211\u5F53\u6210\u5783\u573E\u6570\u636E\u7ED9\u5220\u4E86\u3002 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u5927\u5E08\uFF0C\u4F60\u8BF4\u2026\u2026\u6211\u662F\u4E0D\u662F\u8BE5\u7ED9\u5B83\u78D5\u4E00\u4E2A\uFF1F\u53EA\u8981\u5B83\u80FD\u8BA9\u6211\u8FC7\u2026\u2026\u8BA9\u6211\u7559\u4E0B\u3002\r\n"
+    keyword: 
+    hasOptions: 1
+    options:
+    - optionText: "\u522B\u8DEA\u3002 "
+      nextLineIndex: 23
+      cityAcceptanceChange: 0
+      stabilityChange: 0
+    - optionText: "\u78D5\u5427\u3002 "
+      nextLineIndex: 37
+      cityAcceptanceChange: 0
+      stabilityChange: 0
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u522B\u8DEA\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u4F60\u7ED9\u5B83\u78D5\u5934\uFF1F\u5B83\u662F\u4E2A\u7B97\u6CD5\uFF0C\u4E0D\u662F\u960E\u738B\u7237\u3002 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u6C89\u91CD\u7684\u547C\u5438\u58F0\u6EDE\u4E86\u4E00\u4E0B\uFF09\u53EF\u2026\u2026\u53EF\u662F\u6211\u8FD8\u80FD\u600E\u4E48\u529E\uFF1F\u5927\u5BB6\u90FD\u8BF4\u5B83\u5F88\u51C6\uFF0C\u5B83\u80FD\u901A\u8FC7\u6211\u7684\u5FAE\u8868\u60C5\u7B97\u51FA\u6211\u9002\u4E0D\u9002\u5408\u2026\u2026\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u542C\u7740\uFF0C\u4F60\u8FD8\u662F\u4EBA\u7C7B\uFF0C\u5BF9\u5427\uFF1F\u4F60\u4F1A\u7126\u8651\uFF0C\u4F1A\u4E0A\u9999\uFF0C\u4F1A\u56E0\u4E3A\u5BB3\u6015\u800C\u7ED9\u6211\u8FD9\u6253\u7535\u8BDD\uFF0C\u8FD9\u5C31\u662F\u4F60\u6BD4\u90A3\u4E1C\u897F\u5F3A\u7684\u5730\u65B9\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u4E00\u9635\u7AB8\u7AB8\u7AA3\u7AA3\u7684\u58F0\u97F3\uFF0C\u50CF\u662F\u6709\u4EBA\u7A0D\u5FAE\u76F4\u8D77\u4E86\u8EAB\u5B50\uFF09\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u673A\u5668\u6CA1\u6709\u6050\u60E7\uFF0C\u6240\u4EE5\u673A\u5668\u6C38\u8FDC\u4E0D\u61C2\u4EC0\u4E48\u662F\u52C7\u6C14\u3002\u4F60\u7ED9\u5B83\u70E7\u9999\uFF0C\u5C31\u7B49\u4E8E\u627F\u8BA4\u4F60\u81EA\u5DF1\u53EA\u662F\u4E2A\u5F85\u5904\u7406\u7684\u6570\u636E\u5305\u3002\u5439\u706D\u5B83\u3002\u628A\u706F\u6253\u5F00\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u5F00\u2026\u2026\u5F00\u706F\uFF1F "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u5BF9\uFF0C\u53BB\u5F00\u706F\u3002\u628A\u623F\u95F4\u5927\u706F\u6253\u5F00\uFF0C\u628A\u90A3\u51E0\u6839\u9999\u6390\u4E86\u3002\u522B\u8BA9\u5C4B\u91CC\u770B\u8D77\u6765\u50CF\u4E2A\u7075\u5802\uFF0C\u90A3\u662F\u4F60\u5403\u996D\u7684\u5BB6\u4F19\uFF0C\u4E0D\u662F\u7956\u5B97\u724C\u4F4D\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u4E00\u9635\u614C\u4E71\u7684\u811A\u6B65\u58F0\u540E\uFF09\uFF08\u957F\u957F\u7684\u4E00\u58F0\u5438\u6C14\uFF09\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u58F0\u97F3\u542C\u8D77\u6765\u4F9D\u7136\u865A\u5F31\uFF0C\u98A4\u6296\u7684\u9891\u7387\u53D8\u4E86\uFF09\u597D\u50CF\u2026\u2026\u4E5F\u6CA1\u90A3\u4E48\u5413\u4EBA\u3002\u5C31\u662F\u53F0\u65E7\u7535\u8111\uFF0C\u98CE\u6247\u58F0\u633A\u5927\u7684\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u660E\u5929\u9762\u8BD5\u7684\u65F6\u5019\uFF0C\u522B\u628A\u5B83\u5F53\u795E\u3002\u8981\u662F\u8FC7\u4E0D\u4E86\uFF0C\u90A3\u662F\u90A3\u5BB6\u516C\u53F8\u7684\u7CFB\u7EDF\u914D\u4E0D\u4E0A\u4F60\u8FD9\u79CD\u6709\u8DA3\u7684\u4EBA\u7C7B\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u6C89\u9ED8\u826F\u4E45\uFF0C\u6700\u540E\u4F20\u6765\u4E00\u58F0\u5E26\u7740\u9F3B\u97F3\u7684\u3001\u5C34\u5C2C\u7684\u7B11\u58F0\uFF09\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u8C22\u8C22\u2026\u2026\u5927\u5E08\u3002\u90A3\u4E2A\uFF0C\u9999\u7070\u6389\u952E\u76D8\u7F1D\u91CC\u4E86\uFF0C\u6211\u5F97\u53BB\u6E05\u4E00\u4E0B\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u53BB\u5427\u3002\u795D\u4F60\u597D\u8FD0\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 1
+    autoJumpIndex: 55
+  - characterType: 0
+    content: "\u78D5\u5427\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u5982\u679C\u4F60\u89C9\u5F97\u90A3\u6837\u80FD\u8BA9\u4F60\u5B89\u5FC3\u70B9\u2026\u2026\u90A3\u5C31\u78D5\u5427\u3002\u5FC3\u8BDA\u5219\u7075\uFF0C\u4E5F\u8BB8\u90A3\u73A9\u610F\u513F\u771F\u7684\u6709\u7075\u6027\u5462\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u6BD5\u7ADF\u73B0\u5728\u7684\u5927\u6570\u636E\u6BD4\u4F60\u4EB2\u5988\u90FD\u4E86\u89E3\u4F60\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u771F\u7684\u5417\uFF1F\u4F60\u4E5F\u89C9\u5F97\u6709\u7528\uFF1F\u5BF9\u5427\uFF01\u6211\u770B\u7F51\u4E0A\u6709\u4EBA\u8BF4\uFF0C\u5F97\u628A\u6444\u50CF\u5934\u64E6\u5E72\u51C0\uFF0C\u8BA9\u5B83\u770B\u6E05\u695A\u6211\u7684\u8BDA\u610F\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u55EF\uFF0C\u64E6\u5E72\u51C0\u70B9\u3002 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u8BA9\u5B83\u770B\u6E05\u695A\uFF0C\u4F60\u662F\u591A\u4E48\u6E34\u671B\u88AB\u7CFB\u7EDF\u9009\u4E2D\u3002 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u6C89\u95F7\u7684\u58F0\u54CD\uFF09\uFF08\u989D\u5934\u649E\u51FB\u5EC9\u4EF7\u590D\u5408\u5730\u677F\u7684\u58F0\u97F3\uFF09 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u4E00\u4E0B\uFF09 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u4E24\u4E0B\uFF09 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u4E09\u4E0B\uFF09 "
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u5404\u8DEF\u7B97\u6CD5\u4FDD\u4F51\uFF0C\u4E00\u5B9A\u8981\u8BA9\u6211\u8FC7\uFF0C\u4E00\u5B9A\u8981\u8BA9\u6211\u8FC7\u2026\u2026\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u7A81\u7136\u5C16\u53EB\u4E86\u4E00\u58F0\uFF09\u554A\uFF01\u5B83\u2026\u2026\u5B83\u706D\u4E86\uFF01\u600E\u4E48\u56DE\u4E8B\uFF01\u5927\u5E08\uFF01\u5B83\u7684\u773C\u775B\u706D\u4E86\uFF01\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 2
+    content: "\u2026\u2026\u5927\u6982\u662F\u7535\u8111\u8FDB\u5165\u4E86\u4F11\u7720\u6A21\u5F0F\u3002\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u5B83\u4E0D\u63A5\u53D7\uFF01\u5B83\u9ED1\u5C4F\u4E86\uFF01\u5B83\u662F\u4E0D\u662F\u770B\u5230\u6211\u5FC3\u91CC\u7684\u72B9\u8C6B\u4E86\uFF1F\u5B83\u662F\u4E0D\u662F\u89C9\u5F97\u6211\u4E0D\u5408\u683C\uFF1F\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u5B8C\u4E86\u2026\u2026\u5168\u5B8C\u4E86\u2026\u2026\u8FDE\u673A\u5668\u90FD\u4E0D\u8981\u6211\u2026\u2026\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 0
+    content: "\u4F60\u51B7\u9759\u70B9\u2026\u2026\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\u6211\u4E0D\u884C\u2026\u2026\u6211\u662F\u5E9F\u54C1\u2026\u2026\u6211\u662Fbug\u2026\u2026\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u4E00\u9635\u684C\u6905\u7FFB\u5012\u7684\u5DE8\u54CD\uFF09\uFF08\u95E8\u88AB\u731B\u7136\u649E\u5F00\u7684\u58F0\u97F3\uFF09\uFF08\u98CE\u58F0\u548C\u96E8\u58F0\uFF09\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
+  - characterType: 1
+    content: "\uFF08\u7535\u8BDD\u56E0\u4FE1\u53F7\u4E2D\u65AD\u800C\u53D1\u51FA\u4E00\u9635\u5FD9\u97F3\uFF09\r\n"
+    keyword: 
+    hasOptions: 0
+    options: []
+    autoJump: 0
+    autoJumpIndex: 0
