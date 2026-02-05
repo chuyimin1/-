@@ -120,7 +120,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   contentText: {fileID: 6218293395086179199}
   typingSpeed: 0.05
-  clueTipPanel: {fileID: 0}
 --- !u!114 &5077540051510873577
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -237,8 +236,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 31b096a342a602e4eb5b61d5df872365, type: 2}
-  m_sharedMaterial: {fileID: 6249060951818171457, guid: 31b096a342a602e4eb5b61d5df872365, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 22ecd5ff079e4d143819c5886e046f4c, type: 2}
+  m_sharedMaterial: {fileID: 2172772760949026812, guid: 22ecd5ff079e4d143819c5886e046f4c, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

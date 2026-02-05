@@ -8,6 +8,11 @@ public class WindowIcon : MonoBehaviour
     public Sprite activeSprite;
     public Sprite inactiveSprite;
 
+    void Start()
+    {
+        window.Hide();
+    }
+
     public void OnClick()
     {
         if (window.IsVisible())

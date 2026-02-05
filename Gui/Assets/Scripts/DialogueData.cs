@@ -28,4 +28,5 @@ public class DialogueOption
     public int nextLineIndex; // 跳到哪一行
     public float cityAcceptanceChange; // 城市认可度变化
     public float stabilityChange; // 未离稳定值变化
+    public int outcomeID;
 }

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7bbeac1a7dfbcc43a230c5cef399bdb, type: 3}
+  m_Name: Post01
+  m_EditorClassIdentifier: 
+  postID: 101
+  avatar: {fileID: 21300000, guid: 212738e5aa820c7439681c510c0362b0, type: 3}
+  nickname: "@\u67D0\u4E0D\u77E5\u540D\u6C42\u804C\u535A\u4E3B"
+  title: "\u4E0D\u77E5\u9053\u80FD\u4E0D\u80FD\u8FC7"
+  content: "\u6628\u665A\u53D1\u795E\u7ECF\u5DEE\u70B9\u628A\u7535\u8111\u4F9B\u8D77\u6765\u4E86\uFF08\u6342\u8138\uFF09\u3002\u672C\u6765\u4EE5\u4E3A\u4ECA\u5929\u8981\u88ABAI\u9762\u8BD5\u5B98\u72E0\u72E0\u7F9E\u8FB1\uFF0C\u7ED3\u679C\u9762\u8BD5\u7CFB\u7EDF\u5D29\u4E86\uFF0C\u6700\u540E\u662FHR\u76F4\u63A5\u6253\u7535\u8BDD\u6765\u9762\u7684\u3002\n\u867D\u7136\u4E0D\u77E5\u9053\u80FD\u4E0D\u80FD\u8FC7\uFF0C\u4F46\u542C\u90A3\u4E2A\u4EBA\u5410\u69FD\u201C\u662F\u7CFB\u7EDF\u914D\u4E0D\u4E0A\u4F60\u201D\u7684\u65F6\u5019\uFF0C\u6211\u7A81\u7136\u89C9\u5F97\u6D3B\u8FC7\u6765\u4E86\u3002\n\u54EA\u6015\u662F\u88AB\u62D2\u7EDD\uFF0C\u6211\u4E5F\u5E0C\u671B\u662F\u88AB\u201C\u4EBA\u201D\u62D2\u7EDD\uFF0C\u800C\u4E0D\u662F\u88AB\u4EE3\u7801\u5220\u9664\u3002\n#\u79CB\u62DB
+    #\u53D1\u75AF\u5B9E\u5F55 #\u9762\u8BD5"
+  postImage: {fileID: 0}
+  postTime: 
+  influenceA: 5
+  influenceB: -5

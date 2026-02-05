@@ -85,7 +85,7 @@ MonoBehaviour:
     autoJump: 0
     autoJumpIndex: 0
   - characterType: 1
-    content: "\uFF08\u6C89\u9ED8\u4E86\u8DB3\u8DB3\u4E94\u79D2\u949F\uFF09\uFF08\u4E00\u58F0\u6253\u706B\u673A\u7684\u8106\u54CD\uFF09\uFF08\u67D0\u79CD\u5E72\u71E5\u7269\u4F53\u71C3\u70E7\u7684\u7EC6\u5FAE\u567C\u556A\u58F0\uFF09\n\r"
+    content: "\uFF08\u6C89\u9ED8\u4E86\u8DB3\u8DB3\u4E94\u79D2\u949F\uFF09\uFF08\u4E00\u58F0\u6253\u706B\u673A\u7684\u8106\u54CD\uFF09\uFF08\u67D0\u79CD\u5E72\u71E5\u7269\u4F53\u71C3\u70E7\u7684\u7EC6\u5FAE\u567C\u556A\u58F0\uFF09"
     keyword: 
     hasOptions: 0
     options: []
@@ -177,10 +177,12 @@ MonoBehaviour:
       nextLineIndex: 23
       cityAcceptanceChange: 0
       stabilityChange: 0
+      outcomeID: 101
     - optionText: "\u78D5\u5427\u3002 "
       nextLineIndex: 37
       cityAcceptanceChange: 0
       stabilityChange: 0
+      outcomeID: 102
     autoJump: 0
     autoJumpIndex: 0
   - characterType: 0
@@ -212,7 +214,7 @@ MonoBehaviour:
     autoJump: 0
     autoJumpIndex: 0
   - characterType: 1
-    content: "\uFF08\u4E00\u9635\u7AB8\u7AB8\u7AA3\u7AA3\u7684\u58F0\u97F3\uFF0C\u50CF\u662F\u6709\u4EBA\u7A0D\u5FAE\u76F4\u8D77\u4E86\u8EAB\u5B50\uFF09\r\n"
+    content: "\uFF08\u4E00\u9635\u7AB8\u7AB8\u7AA3\u7AA3\u7684\u58F0\u97F3\uFF0C\u50CF\u662F\u6709\u4EBA\u7A0D\u5FAE\u76F4\u8D77\u4E86\u8EAB\u5B50\uFF09\r"
     keyword: 
     hasOptions: 0
     options: []
